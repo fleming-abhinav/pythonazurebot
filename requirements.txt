@@ -1,0 +1,6 @@
+botbuilder-integration-aiohttp>=4.12.0
+botbuilder-core
+botbuilder-ai
+flask
+requests
+json
