@@ -3,4 +3,3 @@ botbuilder-core
 botbuilder-ai
 flask
 requests
-json
